@@ -4,6 +4,8 @@
 import os
 import sys
 
+
+
 os.system("rm -rf ./output_*")
 
 # get current directory's apk files
